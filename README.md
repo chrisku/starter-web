@@ -21,4 +21,4 @@ Please fork this repo then issue Pull Requests for review.
 
 ### Copyright
 
-You know who
+You know who.  All rights considered.
