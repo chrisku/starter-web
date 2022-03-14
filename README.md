@@ -15,3 +15,7 @@ What we believe in.
 Simple web project to use anywhere.
 
 ## How to Contribute
+
+### Copyright
+
+You know who
