@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project.
-Rebase ain't freebase.
+Rebase ain't freebase, expanded the line.
 
 ## Introduction
 
