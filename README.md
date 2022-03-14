@@ -8,6 +8,10 @@ Different parts...
 
 ## Purpose
 
+What we believe in.
+
 ## Deployment
+
+Simple web project to use anywhere.
 
 ## How to Contribute
