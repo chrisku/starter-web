@@ -16,6 +16,8 @@ Simple web project to use anywhere.
 
 ## How to Contribute
 
+Please fork this repo then issue Pull Requests for review.
+
 ### Copyright
 
 You know who
